@@ -1,0 +1,104 @@
+{
+  "_fv": 33,
+  "_type": "biome",
+  "definition": {
+    "name": "Nicota",
+    "groundBlock": {
+      "value": "CUSTOM:Plast"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Rocloc"
+    },
+    "airColor": {
+      "value": -3394561,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16751002,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "EXTREME_HILLS",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 5,
+    "mushroomsPerChunk": 5,
+    "bigMushroomsChunk": 1,
+    "sandPatchesPerChunk": 10,
+    "gravelPatchesPerChunk": 10,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 10,
+    "vanillaTreeType": "Big trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "Blocks.LOG2#1"
+    },
+    "treeBranch": {
+      "value": "Blocks.HAY_BLOCK"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": "Blocks.AMETHYST_CLUSTER"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "savanna",
+    "spawnWoodlandMansion": true,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": true,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "WARM",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": true,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "MOUNTAIN",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "Bamboo"
+    ],
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "talir:ropa"
+  },
+  "result": "talir:plast"
+}

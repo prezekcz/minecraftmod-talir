@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "talir:blocks/plast",
+    "up": "talir:blocks/plat2",
+    "north": "talir:blocks/plast",
+    "east": "talir:blocks/plast",
+    "south": "talir:blocks/plast",
+    "west": "talir:blocks/plast",
+    "particle": "talir:blocks/plast"
+  }
+}

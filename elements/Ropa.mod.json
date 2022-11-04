@@ -1,0 +1,55 @@
+{
+  "_fv": 33,
+  "_type": "fluid",
+  "definition": {
+    "name": "Ropa",
+    "bucketName": "Ropa Bucket",
+    "textureStill": "oo",
+    "textureFlowing": "oo",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": true,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 10,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 20,
+    "fireSpreadSpeed": 20,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "void"
+      }
+    ]
+  }
+}

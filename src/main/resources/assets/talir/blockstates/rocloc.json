@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "talir:block/rocloc"
+    }
+  }
+}

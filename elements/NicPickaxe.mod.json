@@ -1,0 +1,32 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nic_pickaxe",
+    "customModelName": "Normal",
+    "name": "Krumpac k nicemu",
+    "specialInfo": [
+      "nedrzi"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 20.0,
+    "attackSpeed": 0.1,
+    "enchantability": 14,
+    "damageVsEntity": 2.5,
+    "usageCount": 33,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "NicPickaxeRightClickedInAir"
+    }
+  }
+}

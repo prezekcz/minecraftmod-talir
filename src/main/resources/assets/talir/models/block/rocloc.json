@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "talir:blocks/rocloc",
+    "up": "talir:blocks/rocloc",
+    "north": "talir:blocks/rocloc",
+    "east": "talir:blocks/rocloc",
+    "south": "talir:blocks/rocloc",
+    "west": "talir:blocks/rocloc",
+    "particle": "talir:blocks/rocloc"
+  }
+}
